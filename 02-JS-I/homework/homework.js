@@ -184,7 +184,7 @@ function retornarPerimetro(lado){
   //Escribe tu código aquí
   let perimetro = 0
   for (let i=0;i<4;i++) perimetro = perimetro + lado;
-  return(perimetro); // ----- o .... perimetro = lado * 4  jeje----- 
+  return(perimetro); // ---- o .... perimetro = lado * 4  jeje----- 
 }
 
 
